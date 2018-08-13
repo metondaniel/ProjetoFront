@@ -1,0 +1,15 @@
+<mat-sidenav-container>
+  <mat-sidenav #sidenav align="end" (keydown.escape)="close('')">
+    <button mat-icon-button (click)="close('')">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <app-navmenu></app-navmenu>
+    
+    <div class="page-section">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+

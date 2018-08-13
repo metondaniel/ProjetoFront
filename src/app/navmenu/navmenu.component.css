@@ -1,0 +1,28 @@
+
+
+.nav {
+  border-radius: 0px;
+  padding: 10px;
+}
+  ul li{
+  float: Left;
+  list-style-type: none;
+  width:150px;
+  
+}
+  li a{
+  color: black;
+  margin-top: 10px;
+  background-color: transparent;
+  font-weight: 600;
+  font-size: 15px;
+}
+     li a:hover {
+      background-color: transparent;
+    }
+     li a:active {
+      background-color: transparent;
+      font-weight: 600; font-size: 15px
+    }
+
+

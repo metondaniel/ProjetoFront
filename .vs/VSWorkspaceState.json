@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\services",
+    "\\src\\app\\navmenu",
+    "\\src\\app\\prato",
+    "\\src\\app\\restaurante",
+    "\\src\\app\\restaurante\\restaurante-list"
+  ],
+  "SelectedNode": "\\src\\app\\admin\\services\\microservices.ts",
+  "PreviewInSolutionExplorer": false
+}
